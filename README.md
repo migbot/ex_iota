@@ -1,6 +1,6 @@
 # Iota
 
-**TODO: Add description**
+IOTA Client Reference Implementation in Elixir
 
 ## Installation
 
